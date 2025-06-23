@@ -12,7 +12,7 @@ let gameState = {
 };
 
 // Google Sheets API 설정
-const GOOGLE_SHEETS_URL = 'https://script.google.com/macros/s/AKfycbxdotx3SRNYZPrGB0POKw9KxLc9fVTD8bMPkTTHmPGSfOLsVpNU9OwFop7Xt7mfjaXwWA/exec';
+const GOOGLE_SHEETS_URL = 'https://script.google.com/macros/s/AKfycbwwl3404VfS919Niv1x-zdZZbcUyOq9zxQdFwksNC6Zv9QuHCZG54OX5neB2j-49HWgLw/exec';
 
 // DOM 요소들
 const screens = {
